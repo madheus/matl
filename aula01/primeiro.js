@@ -1,4 +1,5 @@
 const rl = require('readline-sync')
+
 let ae = Number(rl.question('? '))
 cubo = function (a,a)  {
 

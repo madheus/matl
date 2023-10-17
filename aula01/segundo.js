@@ -1,4 +1,5 @@
 const rl = require('readline-sync')
+
 let ae = (rl.question(`?; `))
 
 invertido = function() {
